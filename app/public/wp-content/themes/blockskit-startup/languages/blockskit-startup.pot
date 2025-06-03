@@ -1,0 +1,358 @@
+# Copyright (C) 2025 BlockskitDev
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blockskit Startup 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blockskit-startup\n"
+"POT-Creation-Date: 2024-12-26 10:06:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: functions.php:48
+msgid "Theme Patterns"
+msgstr ""
+
+#: patterns/about.php:15
+msgid "INTRODUCTION OF US"
+msgstr ""
+
+#: patterns/about.php:21
+msgid "We Are Best  Creative Bold"
+msgstr ""
+
+#: patterns/about.php:21 patterns/portfolio.php:83
+msgid "Startup Business"
+msgstr ""
+
+#: patterns/about.php:21
+msgid "Since 1990."
+msgstr ""
+
+#: patterns/about.php:31
+msgid "20+"
+msgstr ""
+
+#: patterns/about.php:35
+msgid "YEARS OF EXPERIENCE"
+msgstr ""
+
+#: patterns/about.php:44
+msgid "World Class Startup Business Agency"
+msgstr ""
+
+#: patterns/about.php:48 patterns/about.php:79 patterns/about.php:97
+#: patterns/about.php:115
+msgid "Eiusmod potenti inceptos nobis aliquid veniam, mollitia eius, praesentium, dictumst."
+msgstr ""
+
+#: patterns/about.php:69
+msgid "01"
+msgstr ""
+
+#: patterns/about.php:75
+msgid "Start Market Research"
+msgstr ""
+
+#: patterns/about.php:87
+msgid "02"
+msgstr ""
+
+#: patterns/about.php:93
+msgid "Discussion Of The Idea"
+msgstr ""
+
+#: patterns/about.php:105
+msgid "03"
+msgstr ""
+
+#: patterns/about.php:111
+msgid "Management Planning"
+msgstr ""
+
+#: patterns/about.php:123
+msgid "MORE ABOUT US"
+msgstr ""
+
+#: patterns/about.php:130
+msgid "William Henry"
+msgstr ""
+
+#: patterns/about.php:134
+msgid "CEO, CHAIRMAN"
+msgstr ""
+
+#: patterns/about.php:149
+msgid "Trusted by many companies around the world"
+msgstr ""
+
+#: patterns/about.php:162
+msgid "35k+"
+msgstr ""
+
+#: patterns/about.php:166
+msgid "Happy Clients Around"
+msgstr ""
+
+#: patterns/about.php:166
+msgid "the World"
+msgstr ""
+
+#: patterns/about.php:172
+msgid "155+"
+msgstr ""
+
+#: patterns/about.php:176
+msgid "Business Startup"
+msgstr ""
+
+#: patterns/about.php:176
+msgid "Projects Completed"
+msgstr ""
+
+#: patterns/about.php:186
+msgid "98%"
+msgstr ""
+
+#: patterns/about.php:190
+msgid "Positive Review &amp; Ratings"
+msgstr ""
+
+#: patterns/about.php:190
+msgid "From Customers."
+msgstr ""
+
+#: patterns/about.php:196
+msgid "44+"
+msgstr ""
+
+#: patterns/about.php:200
+msgid "Company Branches All"
+msgstr ""
+
+#: patterns/about.php:200
+msgid "Over the State"
+msgstr ""
+
+#: patterns/callback.php:15
+msgid "Let&#39;s Discuss About Your"
+msgstr ""
+
+#: patterns/callback.php:15
+msgid "Startup Business !"
+msgstr ""
+
+#: patterns/callback.php:30
+msgid "Looking for collaboaration?"
+msgstr ""
+
+#: patterns/callback.php:34
+msgid "info@yourdomain.com"
+msgstr ""
+
+#: patterns/footer.php:109
+msgid "Copyright © %d ·"
+msgstr ""
+
+#: patterns/footer.php:115
+msgid "· All rights reserved"
+msgstr ""
+
+#: patterns/header.php:26
+msgid "Home"
+msgstr ""
+
+#: patterns/header.php:27
+msgid "About Us"
+msgstr ""
+
+#: patterns/header.php:28
+msgid "Portfolio"
+msgstr ""
+
+#: patterns/header.php:29
+msgid "Blog"
+msgstr ""
+
+#: patterns/header.php:30
+msgid "Contact"
+msgstr ""
+
+#: patterns/header.php:34
+msgid "GET A QUOTE"
+msgstr ""
+
+#: patterns/hero-banner.php:24
+msgid "STARTUP BUSINESS"
+msgstr ""
+
+#: patterns/hero-banner.php:30
+msgid "Trusted Startup  You Must Inspire"
+msgstr ""
+
+#: patterns/hero-banner.php:34
+msgid "Arcu mollis ac turpis dignissim. Aliqua! Integer varius velit, convallis corrupti euismod dolore molestiae fames ducimus lorem praesent cupidatat rhoncus, saepe vestibulum volutpat. Pulvinar, ab."
+msgstr ""
+
+#: patterns/hero-banner.php:39
+msgid "GET STARTED"
+msgstr ""
+
+#: patterns/hero-banner.php:43
+msgid "LEARN MORE"
+msgstr ""
+
+#: patterns/latest-posts.php:14
+msgid "LATEST NEWS"
+msgstr ""
+
+#: patterns/latest-posts.php:20
+msgid "Stay updated with the latest"
+msgstr ""
+
+#: patterns/latest-posts.php:20
+msgid "trends and business news"
+msgstr ""
+
+#: patterns/latest-posts.php:24
+msgid "Cras fermentum consectetur risus, id lacinia duipo."
+msgstr ""
+
+#: patterns/portfolio.php:15
+msgid "CASE STUDIES"
+msgstr ""
+
+#: patterns/portfolio.php:21
+msgid "Recent"
+msgstr ""
+
+#: patterns/portfolio.php:21
+msgid "Case Studies"
+msgstr ""
+
+#: patterns/portfolio.php:27
+msgid "Molestiae blanditiis suscipit excepturi ev diamlorem quisque sodales nascetur sociis rerum aute, in. Torquent quidem natus maecenas pra. Minusiun taciti voluptates."
+msgstr ""
+
+#: patterns/portfolio.php:34
+msgid "VIEW MORE"
+msgstr ""
+
+#: patterns/portfolio.php:46
+msgid "BUSINESS"
+msgstr ""
+
+#: patterns/portfolio.php:57
+msgid "Customer Service"
+msgstr ""
+
+#: patterns/portfolio.php:61
+msgid "Targeted Growth"
+msgstr ""
+
+#: patterns/portfolio.php:72
+msgid "STARTUP"
+msgstr ""
+
+#: patterns/portfolio.php:87
+msgid "Business Buildup"
+msgstr ""
+
+#: patterns/portfolio.php:98
+msgid "MANAGEMENT"
+msgstr ""
+
+#: patterns/portfolio.php:109
+msgid "Account Manage"
+msgstr ""
+
+#: patterns/portfolio.php:113
+msgid "Report Analysis"
+msgstr ""
+
+#: patterns/portfolio.php:124
+msgid "FINANCE"
+msgstr ""
+
+#: patterns/portfolio.php:135
+msgid "Growth Finance"
+msgstr ""
+
+#: patterns/portfolio.php:139
+msgid "Market Strategy"
+msgstr ""
+
+#: patterns/template-404.php:24
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/template-cart.php:27 patterns/template-cart.php:90
+#: patterns/template-cart.php:153
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/template-cart.php:209
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/template-cart.php:213
+msgid "Browse store"
+msgstr ""
+
+#: patterns/template-cart.php:221
+msgid "New in store"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:22
+msgid "Order Confirmation"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:40
+msgid "Order details"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:48
+msgid "Downloads"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:58
+msgid "Shipping address"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:68
+msgid "Billing address"
+msgstr ""
+
+#: patterns/template-product-search-results.php:49
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/template-search.php:51
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgstr ""
+
+#: patterns/template-single-product.php:58
+msgid "Related products"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Blockskit Startup"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blockskit.com/blockskit-startup/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Blockskit Startup is a modern and versatile WordPress theme designed for various types of websites including advertising, agency, blog, business, corporate, creative, design, finance, investments, management, marketing, portfolio, smm, startup, web design and more. It offers full-site-editing, allowing easy customization of all aspects of your site. With multiple templates, patterns, and style variations, it's suitable for different aesthetics. The theme is also compatible with popular plugins like Elementor, WooCommerce, and Spectra – WordPress Gutenberg Blocks, adding extra functionality to your site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BlockskitDev"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blockskit.com"
+msgstr ""

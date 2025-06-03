@@ -1,0 +1,17 @@
+[Mon Jun 02 13:36:37.391943 2025] [mpm_winnt:notice] [pid 11396:tid 848] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Mon Jun 02 13:36:37.391943 2025] [mpm_winnt:notice] [pid 11396:tid 848] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Jun 02 13:36:37.391943 2025] [core:notice] [pid 11396:tid 848] AH00094: Command line: 'C:\\Users\\ANITH\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+11\\bin\\win32\\bin\\httpd.exe -d C:/Users/ANITH/AppData/Roaming/Local/lightning-services/apache-2.4.43+11/bin/win32 -D FOREGROUND -f C:\\Users\\ANITH\\AppData\\Roaming\\Local\\run\\KVcv9t1Nf\\conf\\apache\\apache2.conf'
+[Mon Jun 02 13:36:37.401439 2025] [mpm_winnt:notice] [pid 11396:tid 848] AH00418: Parent: Created child process 2392
+[Mon Jun 02 13:36:37.966397 2025] [mpm_winnt:notice] [pid 2392:tid 856] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 02 13:41:03.980836 2025] [core:warn] [pid 23312:tid 732] AH00098: pid file C:/Users/ANITH/AppData/Roaming/Local/run/KVcv9t1Nf/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jun 02 13:41:03.984071 2025] [mpm_winnt:notice] [pid 23312:tid 732] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Mon Jun 02 13:41:03.984071 2025] [mpm_winnt:notice] [pid 23312:tid 732] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Jun 02 13:41:03.984071 2025] [core:notice] [pid 23312:tid 732] AH00094: Command line: 'C:\\Users\\ANITH\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+11\\bin\\win32\\bin\\httpd.exe -d C:/Users/ANITH/AppData/Roaming/Local/lightning-services/apache-2.4.43+11/bin/win32 -D FOREGROUND -f C:\\Users\\ANITH\\AppData\\Roaming\\Local\\run\\KVcv9t1Nf\\conf\\apache\\apache2.conf'
+[Mon Jun 02 13:41:03.991693 2025] [mpm_winnt:notice] [pid 23312:tid 732] AH00418: Parent: Created child process 5596
+[Mon Jun 02 13:41:04.522472 2025] [mpm_winnt:notice] [pid 5596:tid 832] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 02 14:07:42.654951 2025] [core:warn] [pid 17136:tid 764] AH00098: pid file C:/Users/ANITH/AppData/Roaming/Local/run/KVcv9t1Nf/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jun 02 14:07:42.658083 2025] [mpm_winnt:notice] [pid 17136:tid 764] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Mon Jun 02 14:07:42.658083 2025] [mpm_winnt:notice] [pid 17136:tid 764] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Jun 02 14:07:42.658083 2025] [core:notice] [pid 17136:tid 764] AH00094: Command line: 'C:\\Users\\ANITH\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+11\\bin\\win32\\bin\\httpd.exe -d C:/Users/ANITH/AppData/Roaming/Local/lightning-services/apache-2.4.43+11/bin/win32 -D FOREGROUND -f C:\\Users\\ANITH\\AppData\\Roaming\\Local\\run\\KVcv9t1Nf\\conf\\apache\\apache2.conf'
+[Mon Jun 02 14:07:42.667624 2025] [mpm_winnt:notice] [pid 17136:tid 764] AH00418: Parent: Created child process 13880
+[Mon Jun 02 14:07:43.194492 2025] [mpm_winnt:notice] [pid 13880:tid 832] AH00354: Child: Starting 64 worker threads.
